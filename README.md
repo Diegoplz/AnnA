@@ -26,3 +26,6 @@ Asistente virtual desarrollado en Python inspirado en JARVIS de la película IRO
 - Memoria
 - Automatización
 - Control del sistema
+
+## Instalación
+- Ejecutar pip install -r requirements.txt

@@ -15,8 +15,8 @@ RESPUESTAS = {
     ],
 
     "quien eres": [
-        "Soy Anirul, tu asistente personal.",
-        "Soy Anirul, diseñado para ayudarte."
+        "Soy AnNA, tu asistente personal.",
+        "Soy AnNA, creada y diseñada para ayudarte."
     ],
 
     "buenos dias": [

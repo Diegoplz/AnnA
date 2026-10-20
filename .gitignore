@@ -1,0 +1,11 @@
+_pycache_/
+*.pyc
+
+venv/
+.env
+
+*.mp3
+*.wav
+
+.vscode/
+.idea/

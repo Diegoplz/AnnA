@@ -25,7 +25,7 @@ COMANDOS = {
     "abre youtube": (abrir_youtube, "Abriendo YouTube."),
     "abre hub": (abrir_github, "Abriendo GitHub."),
     "abre chati": (abrir_chatgpt, "Abriendo ChatGPT."),
-    "abre visual studio code": (abrir_vscode, "Abriendo Visual Studio Code."),
+    "abre visual": (abrir_vscode, "Abriendo Visual Studio Code."),
     "abre code": (abrir_vscode, "Abriendo Visual Studio Code."),
     "abre netbeans": (abrir_netbeans, "Abriendo NetBeans."),
     "abre mysql": (abrir_mysql, "Abriendo MySQL Workbench."),

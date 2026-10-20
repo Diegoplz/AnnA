@@ -1,8 +1,8 @@
 from voz.hablar import hablar
 import time
 
-hablar("Primera frase")
+hablar("Buenos dias Diego, como estas?")
 
 time.sleep(2)
 
-hablar("Segunda frase")
+hablar("Me encanta poder ayudarte")

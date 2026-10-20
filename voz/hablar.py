@@ -4,7 +4,10 @@ import pygame
 import os
 import uuid
 
-VOZ =  "es-ES-ElviraNeural"   # Voz 
+VOZ =  "ro-RO-AlinaNeural"   # Voz 
+# es-CO-SalomeNeural
+# es-PY-TaniaNeural
+# ro-RO-AlinaNeural
 
 pygame.mixer.init()
 
@@ -16,7 +19,7 @@ async def generar_audio(texto, archivo):
 
 def hablar(texto):
 
-    print(f"ANNA: {texto}")
+    print(f"AnNa: {texto}")
 
     nombre = f"voz_{uuid.uuid4().hex}.mp3"
 
@@ -30,3 +33,4 @@ def hablar(texto):
 
     pygame.mixer.music.unload()
     os.remove(nombre)
+
